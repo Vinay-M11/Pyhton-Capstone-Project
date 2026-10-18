@@ -1,5 +1,3 @@
-# Capstone-Project | Python-Fundamentals
-
 # Capstone Project: Python Fundamentals
 
 This repository contains the deliverables for the **SkillVilla Python Fundamentals Capstone Project**. The primary objective of this project is to demonstrate core data manipulation, cleaning, and preprocessing skills using **Python**, **Pandas**, and **NumPy**. 
